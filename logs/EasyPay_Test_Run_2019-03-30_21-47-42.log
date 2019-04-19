@@ -1,0 +1,147 @@
+2019-03-30 21:47:47 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-03-30 21:47:47 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-03-30 21:47:47 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-03-30 21:47:47 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-03-30 21:47:47 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-03-30 21:47:47 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-03-30 21:47:47 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-03-30 21:47:47 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-03-30 21:47:47 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:47:48 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-03-30 21:47:48 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:47:48 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-03-30 21:47:48 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-03-30 21:47:48 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-03-30 21:47:48 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:47:48 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-03-30 21:47:48 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:47:48 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-03-30 21:47:48 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:47:48 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-03-30 21:47:48 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:47:48 PM - Counters - INFO:  Data Кафедральна вулиця 1, Чернівці, Чернівецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-03-30 21:47:48 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:47:49 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:47:49 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-03-30 21:47:49 PM - Counters - INFO: Element with locator: //button[@class="change-status btn btn-primary"] By type: xpath  Found!
+2019-03-30 21:47:49 PM - Counters - INFO: Click on element with locator: //button[@class="change-status btn btn-primary"] and locator type: xpath
+2019-03-30 21:47:54 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-03-30 21:47:54 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-03-30 21:47:54 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-03-30 21:47:54 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-03-30 21:47:54 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-03-30 21:47:55 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-03-30 21:47:55 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-03-30 21:47:55 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-03-30 21:47:55 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:47:55 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-03-30 21:47:55 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:47:55 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-03-30 21:47:55 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-03-30 21:47:55 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-03-30 21:47:55 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:47:55 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-03-30 21:47:55 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:47:55 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-03-30 21:47:55 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:47:55 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-03-30 21:47:55 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:47:56 PM - Counters - INFO:  Data Кафедральна вулиця 1, Чернівці, Чернівецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-03-30 21:47:56 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:47:56 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:47:56 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-03-30 21:47:56 PM - Counters - INFO: Element with locator: //button[@class="change-status btn btn-primary"] By type: xpath  Found!
+2019-03-30 21:47:56 PM - Counters - INFO: Click on element with locator: //button[@class="change-status btn btn-primary"] and locator type: xpath
+2019-03-30 21:48:01 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-03-30 21:48:01 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-03-30 21:48:01 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-03-30 21:48:01 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-03-30 21:48:02 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-03-30 21:48:02 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-03-30 21:48:02 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-03-30 21:48:02 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-03-30 21:48:02 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:02 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-03-30 21:48:02 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:02 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-03-30 21:48:02 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-03-30 21:48:02 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-03-30 21:48:02 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:02 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-03-30 21:48:02 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:02 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-03-30 21:48:02 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:48:02 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-03-30 21:48:02 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:48:03 PM - Counters - INFO:  Data Кафедральна вулиця 1, Чернівці, Чернівецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-03-30 21:48:03 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:48:03 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:03 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-03-30 21:48:03 PM - Counters - INFO: Element with locator: //button[@class="change-type btn btn-primary"] By type: xpath  Found!
+2019-03-30 21:48:03 PM - Counters - INFO: Click on element with locator: //button[@class="change-type btn btn-primary"] and locator type: xpath
+2019-03-30 21:48:08 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-03-30 21:48:08 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-03-30 21:48:09 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-03-30 21:48:09 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-03-30 21:48:09 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-03-30 21:48:09 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-03-30 21:48:09 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-03-30 21:48:09 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-03-30 21:48:09 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:09 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-03-30 21:48:09 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:09 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-03-30 21:48:09 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-03-30 21:48:09 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-03-30 21:48:09 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:09 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-03-30 21:48:09 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:09 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-03-30 21:48:09 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:48:09 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-03-30 21:48:09 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:48:10 PM - Counters - INFO:  Data Кафедральна вулиця 1, Чернівці, Чернівецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-03-30 21:48:10 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:48:10 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:10 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-03-30 21:48:10 PM - Counters - INFO: Element with locator: //button[@class="change-type btn btn-primary"] By type: xpath  Found!
+2019-03-30 21:48:10 PM - Counters - INFO: Click on element with locator: //button[@class="change-type btn btn-primary"] and locator type: xpath
+2019-03-30 21:48:15 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-03-30 21:48:15 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-03-30 21:48:16 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-03-30 21:48:16 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-03-30 21:48:16 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-03-30 21:48:16 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-03-30 21:48:16 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-03-30 21:48:16 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-03-30 21:48:16 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:16 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-03-30 21:48:16 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:16 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-03-30 21:48:16 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-03-30 21:48:16 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-03-30 21:48:16 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:16 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-03-30 21:48:16 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:16 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-03-30 21:48:16 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:48:16 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-03-30 21:48:16 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:48:17 PM - Counters - INFO:  Data Кафедральна вулиця 1, Чернівці, Чернівецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-03-30 21:48:17 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:48:17 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:17 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-03-30 21:48:17 PM - Counters - INFO: Element with locator: //button[@class="init-with-values btn btn-primary"] By type: xpath  Found!
+2019-03-30 21:48:17 PM - Counters - INFO: Element with locator //button[@class="init-with-values btn btn-primary"] and locator type: xpath Found!
+2019-03-30 21:48:17 PM - Counters - INFO: Element with locator: //button[@class="init-with-values btn btn-primary"] By type: xpath  Found!
+2019-03-30 21:48:17 PM - Counters - INFO: Click on element with locator: //button[@class="init-with-values btn btn-primary"] and locator type: xpath
+2019-03-30 21:48:22 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:48:22 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-03-30 21:48:22 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:48:22 PM - Counters - INFO:  Data Кафедральна вулиця 1, Чернівці, Чернівецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-03-30 21:48:22 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-03-30 21:48:22 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:22 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-03-30 21:48:22 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-03-30 21:48:22 PM - Counters - INFO: Element with locator: //td[@class="counter-value"] appeared on the page
+2019-03-30 21:48:22 PM - Counters - INFO: Element with locator: //td[@class="counter-value"] By type: xpath  Found!

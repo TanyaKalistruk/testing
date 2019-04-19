@@ -1,0 +1,24 @@
+2019-04-18 22:22:36 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 22:22:36 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 22:22:37 PM - Login - INFO:  Data manager1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 22:22:37 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 22:22:37 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 22:22:37 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 22:22:37 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 22:22:37 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 22:22:37 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 22:22:37 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 22:22:37 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 22:22:38 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 22:22:38 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a By type: xpath  Found!
+2019-04-18 22:22:38 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a and locator type: xpath
+2019-04-18 22:22:38 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 22:22:38 PM - Page - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] appeared on the page
+2019-04-18 22:22:38 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 22:22:38 PM - Schedule - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 22:22:38 PM - Schedule - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] By type: xpath  Found!
+2019-04-18 22:22:40 PM - Schedule - INFO: Click on element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] and locator type: xpath
+2019-04-18 22:22:40 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 22:22:40 PM - Schedule - INFO: Element with locator: //*[@id="manager-calendar"]/div[1]/div[2]/button appeared on the page
+2019-04-18 22:22:43 PM - Schedule - ERROR: Element with locator: //td[@data-date="2019-04-26"]//a By type: xpath  Not Found!
+2019-04-18 22:22:47 PM - Schedule - ERROR: Element with locator: //*[@id="manager-calendar"]/div[2]/div/table/tbody/tr/td/div/div/div[5]/div[2]/table/tbody/tr/td[5]/a/div/span By type: xpath  Not Found!

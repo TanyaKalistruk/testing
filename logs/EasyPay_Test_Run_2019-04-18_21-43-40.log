@@ -1,0 +1,585 @@
+2019-04-18 21:43:44 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:43:44 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:43:44 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:43:44 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:43:44 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:43:44 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:43:44 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:43:44 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:43:44 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:43:45 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:43:45 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:43:46 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:43:46 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-04-18 21:43:46 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-04-18 21:43:46 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:43:46 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-04-18 21:43:46 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:43:46 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:43:46 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:43:46 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:43:46 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:43:47 PM - Counters - INFO:  Data  афедральна вулиц€ 1, „ерн≥вц≥, „ерн≥вецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:43:47 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:43:47 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:43:48 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-04-18 21:43:48 PM - Counters - INFO: Element with locator: //button[@class="change-status btn btn-primary"] By type: xpath  Found!
+2019-04-18 21:43:48 PM - Counters - INFO: Click on element with locator: //button[@class="change-status btn btn-primary"] and locator type: xpath
+2019-04-18 21:43:54 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:43:54 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:43:55 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:43:55 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:43:55 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:43:55 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:43:55 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:43:55 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:43:55 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:43:56 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:43:56 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:43:56 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:43:56 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-04-18 21:43:57 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-04-18 21:43:57 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:43:57 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-04-18 21:43:57 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:43:57 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:43:57 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:43:57 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:43:57 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:43:58 PM - Counters - INFO:  Data  афедральна вулиц€ 1, „ерн≥вц≥, „ерн≥вецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:43:58 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:43:58 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:43:58 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-04-18 21:43:58 PM - Counters - INFO: Element with locator: //button[@class="change-status btn btn-primary"] By type: xpath  Found!
+2019-04-18 21:43:59 PM - Counters - INFO: Click on element with locator: //button[@class="change-status btn btn-primary"] and locator type: xpath
+2019-04-18 21:44:05 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:44:05 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:44:05 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:44:05 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:44:05 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:44:05 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:44:05 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:44:06 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:44:06 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:06 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:44:06 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:06 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:44:06 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-04-18 21:44:07 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-04-18 21:44:07 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:07 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-04-18 21:44:07 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:07 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:44:07 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:07 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:44:07 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:08 PM - Counters - INFO:  Data  афедральна вулиц€ 1, „ерн≥вц≥, „ерн≥вецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:44:08 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:08 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:08 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-04-18 21:44:08 PM - Counters - INFO: Element with locator: //button[@class="change-type btn btn-primary"] By type: xpath  Found!
+2019-04-18 21:44:08 PM - Counters - INFO: Click on element with locator: //button[@class="change-type btn btn-primary"] and locator type: xpath
+2019-04-18 21:44:14 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:44:14 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:44:15 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:44:15 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:44:15 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:44:15 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:44:15 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:44:15 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:44:15 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:15 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:44:15 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:16 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:44:16 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-04-18 21:44:16 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-04-18 21:44:16 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:16 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-04-18 21:44:16 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:16 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:44:16 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:16 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:44:16 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:17 PM - Counters - INFO:  Data  афедральна вулиц€ 1, „ерн≥вц≥, „ерн≥вецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:44:17 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:18 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:18 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-04-18 21:44:18 PM - Counters - INFO: Element with locator: //button[@class="change-type btn btn-primary"] By type: xpath  Found!
+2019-04-18 21:44:18 PM - Counters - INFO: Click on element with locator: //button[@class="change-type btn btn-primary"] and locator type: xpath
+2019-04-18 21:44:24 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:44:24 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:44:24 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:44:25 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:44:25 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:44:25 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:44:25 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:44:25 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:44:25 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:25 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:44:25 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:25 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:44:26 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-04-18 21:44:26 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-04-18 21:44:26 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:26 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-04-18 21:44:26 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:26 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:44:26 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:26 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:44:26 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:27 PM - Counters - INFO:  Data  афедральна вулиц€ 1, „ерн≥вц≥, „ерн≥вецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:44:27 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:27 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:28 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-04-18 21:44:28 PM - Counters - INFO: Element with locator: //button[@class="init-with-values btn btn-primary"] By type: xpath  Found!
+2019-04-18 21:44:28 PM - Counters - INFO: Element with locator //button[@class="init-with-values btn btn-primary"] and locator type: xpath Found!
+2019-04-18 21:44:28 PM - Counters - INFO: Element with locator: //button[@class="init-with-values btn btn-primary"] By type: xpath  Found!
+2019-04-18 21:44:28 PM - Counters - INFO: Click on element with locator: //button[@class="init-with-values btn btn-primary"] and locator type: xpath
+2019-04-18 21:44:33 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:33 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:44:33 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:33 PM - Counters - INFO:  Data  афедральна вулиц€ 1, „ерн≥вц≥, „ерн≥вецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:44:33 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:33 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:33 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-04-18 21:44:33 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:33 PM - Counters - INFO: Element with locator: //td[@class="counter-value"] appeared on the page
+2019-04-18 21:44:33 PM - Counters - INFO: Element with locator: //td[@class="counter-value"] By type: xpath  Found!
+2019-04-18 21:44:40 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:44:40 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:44:40 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:44:40 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:44:40 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:44:40 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:44:40 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:44:40 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:44:40 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:41 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:44:41 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:41 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:44:41 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-04-18 21:44:41 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-04-18 21:44:41 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:41 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-04-18 21:44:41 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:42 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:44:42 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:42 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:44:42 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:42 PM - Counters - INFO:  Data  афедральна вулиц€ 1, „ерн≥вц≥, „ерн≥вецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:44:42 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:42 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:42 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-04-18 21:44:42 PM - Counters - INFO: Element with locator: //td[@class="counter-value"] By type: xpath  Found!
+2019-04-18 21:44:42 PM - Counters - INFO: Element with locator: //button[@class="btn btn-primary change-value"] By type: xpath  Found!
+2019-04-18 21:44:42 PM - Counters - INFO: Click on element with locator: //button[@class="btn btn-primary change-value"] and locator type: xpath
+2019-04-18 21:44:42 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:43 PM - Counters - INFO: Element with locator: //h4[@id="myModalLabel"] appeared on the page
+2019-04-18 21:44:43 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:43 PM - Counters - INFO: Element with locator: //input[@id="newCurrentValue"] appeared on the page
+2019-04-18 21:44:43 PM - Counters - INFO: Element with locator: //input[@id="newCurrentValue"] By type: xpath  Found!
+2019-04-18 21:44:43 PM - Counters - INFO:  Data 11 successfully send to element with locator: //input[@id="newCurrentValue"] and locator type: xpath
+2019-04-18 21:44:43 PM - Counters - INFO: Element with locator: //button[@class="btn btn-primary js-apply"] By type: xpath  Found!
+2019-04-18 21:44:44 PM - Counters - INFO: Click on element with locator: //button[@class="btn btn-primary js-apply"] and locator type: xpath
+2019-04-18 21:44:47 PM - Counters - ERROR: Element with locator: //div[@class="alert ui-pnotify-container alert-danger ui-pnotify-shadow"] By type: xpath  Not Found!
+2019-04-18 21:44:52 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:52 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:44:52 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:53 PM - Counters - INFO:  Data  афедральна вулиц€ 1, „ерн≥вц≥, „ерн≥вецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:44:53 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:44:53 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:44:53 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-04-18 21:44:53 PM - Counters - INFO: Element with locator: //td[@class="counter-value"] By type: xpath  Found!
+2019-04-18 21:45:00 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:45:00 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:45:00 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:45:00 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:45:00 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:45:00 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:45:00 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:45:00 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:45:00 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:01 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:45:01 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:01 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:45:01 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-04-18 21:45:01 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-04-18 21:45:01 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:01 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-04-18 21:45:01 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:01 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:45:01 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:45:01 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:45:01 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:45:02 PM - Counters - INFO:  Data  афедральна вулиц€ 1, „ерн≥вц≥, „ерн≥вецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:45:02 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:45:02 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:02 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-04-18 21:45:02 PM - Counters - INFO: Element with locator: //button[@class="btn btn-primary change-value"] By type: xpath  Found!
+2019-04-18 21:45:02 PM - Counters - INFO: Click on element with locator: //button[@class="btn btn-primary change-value"] and locator type: xpath
+2019-04-18 21:45:02 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:03 PM - Counters - INFO: Element with locator: //h4[@id="myModalLabel"] appeared on the page
+2019-04-18 21:45:03 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:03 PM - Counters - INFO: Element with locator: //input[@id="newCurrentValue"] appeared on the page
+2019-04-18 21:45:03 PM - Counters - INFO: Element with locator: //input[@id="newCurrentValue"] By type: xpath  Found!
+2019-04-18 21:45:03 PM - Counters - INFO:  Data -3 successfully send to element with locator: //input[@id="newCurrentValue"] and locator type: xpath
+2019-04-18 21:45:03 PM - Counters - INFO: Element with locator: //button[@class="btn btn-primary js-apply"] By type: xpath  Found!
+2019-04-18 21:45:03 PM - Counters - INFO: Click on element with locator: //button[@class="btn btn-primary js-apply"] and locator type: xpath
+2019-04-18 21:45:03 PM - Counters - INFO: Element with locator: //*[@id="wrong-value"] By type: xpath  Found!
+2019-04-18 21:45:03 PM - Counters - INFO: Element with locator //*[@id="wrong-value"] and locator type: xpath Found!
+2019-04-18 21:45:03 PM - Counters - INFO: Element with locator: //button[@data-locale-item="close"] By type: xpath  Found!
+2019-04-18 21:45:03 PM - Counters - INFO: Click on element with locator: //button[@data-locale-item="close"] and locator type: xpath
+2019-04-18 21:45:10 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:45:10 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:45:10 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:45:10 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:45:10 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:45:10 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:45:10 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:45:10 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:45:10 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:11 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:45:11 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:11 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:45:11 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-04-18 21:45:11 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-04-18 21:45:11 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:11 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-04-18 21:45:11 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:11 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:45:11 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:45:11 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:45:11 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:45:12 PM - Counters - INFO:  Data  афедральна вулиц€ 1, „ерн≥вц≥, „ерн≥вецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:45:12 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:45:12 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:12 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-04-18 21:45:12 PM - Counters - INFO: Element with locator: //button[@class="btn btn-primary change-value"] By type: xpath  Found!
+2019-04-18 21:45:12 PM - Counters - INFO: Click on element with locator: //button[@class="btn btn-primary change-value"] and locator type: xpath
+2019-04-18 21:45:12 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:13 PM - Counters - INFO: Element with locator: //h4[@id="myModalLabel"] appeared on the page
+2019-04-18 21:45:13 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:13 PM - Counters - INFO: Element with locator: //input[@id="newCurrentValue"] appeared on the page
+2019-04-18 21:45:13 PM - Counters - INFO: Element with locator: //input[@id="newCurrentValue"] By type: xpath  Found!
+2019-04-18 21:45:13 PM - Counters - INFO:  Data 123456789 successfully send to element with locator: //input[@id="newCurrentValue"] and locator type: xpath
+2019-04-18 21:45:13 PM - Counters - INFO: Element with locator: //button[@class="btn btn-primary js-apply"] By type: xpath  Found!
+2019-04-18 21:45:13 PM - Counters - INFO: Click on element with locator: //button[@class="btn btn-primary js-apply"] and locator type: xpath
+2019-04-18 21:45:13 PM - Counters - INFO: Element with locator: //*[@id="wrong-value"] By type: xpath  Found!
+2019-04-18 21:45:13 PM - Counters - INFO: Element with locator //*[@id="wrong-value"] and locator type: xpath Found!
+2019-04-18 21:45:20 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:45:20 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:45:20 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:45:20 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:45:21 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:45:21 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:45:21 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:45:21 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:45:21 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:21 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:45:21 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:21 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:45:22 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-04-18 21:45:22 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-04-18 21:45:22 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:22 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-04-18 21:45:22 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:22 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:45:22 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:45:22 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:45:22 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:45:23 PM - Counters - INFO:  Data  афедральна вулиц€ 1, „ерн≥вц≥, „ерн≥вецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:45:23 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:45:23 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:24 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-04-18 21:45:24 PM - Counters - INFO: Element with locator: //td[@class="oldValue"] By type: xpath  Found!
+2019-04-18 21:45:24 PM - Counters - INFO: Element with locator: //button[@class="btn btn-primary change-value"] By type: xpath  Found!
+2019-04-18 21:45:24 PM - Counters - INFO: Click on element with locator: //button[@class="btn btn-primary change-value"] and locator type: xpath
+2019-04-18 21:45:24 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:24 PM - Counters - INFO: Element with locator: //h4[@id="myModalLabel"] appeared on the page
+2019-04-18 21:45:24 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:25 PM - Counters - INFO: Element with locator: //input[@id="newCurrentValue"] appeared on the page
+2019-04-18 21:45:25 PM - Counters - INFO: Element with locator: //input[@id="newCurrentValue"] By type: xpath  Found!
+2019-04-18 21:45:25 PM - Counters - INFO:  Data 5 successfully send to element with locator: //input[@id="newCurrentValue"] and locator type: xpath
+2019-04-18 21:45:25 PM - Counters - INFO: Element with locator: //button[@class="btn btn-primary js-apply"] By type: xpath  Found!
+2019-04-18 21:45:25 PM - Counters - INFO: Click on element with locator: //button[@class="btn btn-primary js-apply"] and locator type: xpath
+2019-04-18 21:45:28 PM - Counters - ERROR: Element with locator: //*[@id="confirm-dialog"] By type: xpath  Not Found!
+2019-04-18 21:45:35 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:45:35 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:45:35 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:45:35 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:45:35 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:45:35 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:45:35 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:45:35 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:45:35 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:35 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:45:35 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:35 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:45:35 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-04-18 21:45:36 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-04-18 21:45:36 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:36 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-04-18 21:45:36 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:36 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:45:36 PM - Counters - INFO: Element with locator: //*[@class="input-group-addon dropdown-toggle"] By type: xpath  Found!
+2019-04-18 21:45:36 PM - Counters - INFO: Click on element with locator: //*[@class="input-group-addon dropdown-toggle"] and locator type: xpath
+2019-04-18 21:45:36 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:36 PM - Counters - INFO: Element with locator: //ul[@class="typeahead typeahead-long dropdown-menu"] appeared on the page
+2019-04-18 21:45:36 PM - Page - INFO: Element with locator: //ul[@class="typeahead typeahead-long dropdown-menu"] By type: xpath  Found!
+2019-04-18 21:45:36 PM - Page - INFO: Element with locator //ul[@class="typeahead typeahead-long dropdown-menu"] and locator type: xpath Found!
+2019-04-18 21:45:42 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:45:42 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:45:43 PM - Login - INFO:  Data inspector1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:45:43 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:45:43 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:45:43 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:45:43 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:45:43 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:45:43 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:43 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:45:43 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:43 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:45:43 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a By type: xpath  Found!
+2019-04-18 21:45:44 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[2]/a and locator type: xpath
+2019-04-18 21:45:44 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:44 PM - Page - INFO: Element with locator: //div[@class="x_panel"] appeared on the page
+2019-04-18 21:45:44 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:44 PM - Counters - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:45:44 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:45:44 PM - Counters - INFO: Click on element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:45:44 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:45:45 PM - Counters - INFO:  Data  афедральна вулиц€ 1, „ерн≥вц≥, „ерн≥вецька область successfully send to element with locator: //input[@class="form-control combobox"] and locator type: xpath
+2019-04-18 21:45:45 PM - Counters - INFO: Element with locator: //input[@class="form-control combobox"] By type: xpath  Found!
+2019-04-18 21:45:45 PM - Counters - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]/tbody/tr appeared on the page
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator: //*[@id="countersTable"]//td[contains(text(),"ƒнепрќблЁнерго")] By type: xpath  Found!
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator //*[@id="countersTable"]//td[contains(text(),"ƒнепрќблЁнерго")] and locator type: xpath Found!
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator: //td[@class="oldValue"] By type: xpath  Found!
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator //td[@class="oldValue"] and locator type: xpath Found!
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator: //td[@class="counter-value"] By type: xpath  Found!
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator //td[@class="counter-value"] and locator type: xpath Found!
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator: //button[@class="change-status btn btn-primary"] By type: xpath  Found!
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator //button[@class="change-status btn btn-primary"] and locator type: xpath Found!
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator: //button[@class="change-type btn btn-primary"] By type: xpath  Found!
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator //button[@class="change-type btn btn-primary"] and locator type: xpath Found!
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator: //button[@class="init-with-values btn btn-primary"] By type: xpath  Found!
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator //button[@class="init-with-values btn btn-primary"] and locator type: xpath Found!
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator: //button[@class="btn btn-primary change-value"] By type: xpath  Found!
+2019-04-18 21:45:46 PM - Counters - INFO: Element with locator //button[@class="btn btn-primary change-value"] and locator type: xpath Found!
+2019-04-18 21:45:52 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:45:52 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:45:52 PM - Login - INFO:  Data manager1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:45:52 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:45:52 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:45:52 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:45:52 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:45:52 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:45:52 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:53 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:45:53 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:53 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:45:53 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a By type: xpath  Found!
+2019-04-18 21:45:53 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a and locator type: xpath
+2019-04-18 21:45:53 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:53 PM - Page - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] appeared on the page
+2019-04-18 21:45:53 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:53 PM - Schedule - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:45:53 PM - Schedule - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] By type: xpath  Found!
+2019-04-18 21:45:55 PM - Schedule - INFO: Click on element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] and locator type: xpath
+2019-04-18 21:45:55 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:45:55 PM - Schedule - INFO: Element with locator: //*[@id="manager-calendar"]/div[1]/div[2]/button appeared on the page
+2019-04-18 21:45:55 PM - Schedule - INFO: Element with locator: //*[@id="manager-calendar"]/div[2] By type: xpath  Found!
+2019-04-18 21:45:55 PM - Schedule - INFO: Element with locator //*[@id="manager-calendar"]/div[2] and locator type: xpath Found!
+2019-04-18 21:46:02 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:46:02 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:46:02 PM - Login - INFO:  Data manager1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:46:02 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:46:02 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:46:02 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:46:02 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:46:02 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:46:02 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:02 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:46:02 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:03 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:46:03 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a By type: xpath  Found!
+2019-04-18 21:46:03 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a and locator type: xpath
+2019-04-18 21:46:03 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:03 PM - Page - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] appeared on the page
+2019-04-18 21:46:03 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:03 PM - Schedule - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:46:03 PM - Schedule - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] By type: xpath  Found!
+2019-04-18 21:46:04 PM - Schedule - INFO: Click on element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] and locator type: xpath
+2019-04-18 21:46:04 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:05 PM - Schedule - INFO: Element with locator: //*[@id="manager-calendar"]/div[1]/div[2]/button appeared on the page
+2019-04-18 21:46:05 PM - Schedule - INFO: Element with locator: button.fc-corner-right By type: css  Found!
+2019-04-18 21:46:05 PM - Schedule - INFO: Element with locator button.fc-corner-right and locator type: css Found!
+2019-04-18 21:46:05 PM - Schedule - INFO: Element with locator: button.fc-corner-left By type: css  Found!
+2019-04-18 21:46:05 PM - Schedule - INFO: Element with locator button.fc-corner-left and locator type: css Found!
+2019-04-18 21:46:05 PM - Schedule - INFO: Element with locator: button.fc-corner-right By type: css  Found!
+2019-04-18 21:46:05 PM - Schedule - INFO: Click on element with locator: button.fc-corner-right and locator type: css
+2019-04-18 21:46:05 PM - Schedule - INFO: Element with locator: button.fc-corner-right By type: css  Found!
+2019-04-18 21:46:05 PM - Schedule - INFO: Element with locator button.fc-corner-right and locator type: css Found!
+2019-04-18 21:46:05 PM - Schedule - INFO: Element with locator: button.fc-corner-left By type: css  Found!
+2019-04-18 21:46:05 PM - Schedule - INFO: Element with locator button.fc-corner-left and locator type: css Found!
+2019-04-18 21:46:05 PM - Schedule - INFO: Element with locator: button.fc-corner-left By type: css  Found!
+2019-04-18 21:46:05 PM - Schedule - INFO: Click on element with locator: button.fc-corner-left and locator type: css
+2019-04-18 21:46:11 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:46:11 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:46:11 PM - Login - INFO:  Data manager1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:46:11 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:46:12 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:46:12 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:46:12 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:46:12 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:46:12 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:12 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:46:12 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:12 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:46:12 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a By type: xpath  Found!
+2019-04-18 21:46:13 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a and locator type: xpath
+2019-04-18 21:46:13 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:13 PM - Page - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] appeared on the page
+2019-04-18 21:46:13 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:13 PM - Schedule - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:46:13 PM - Schedule - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] By type: xpath  Found!
+2019-04-18 21:46:14 PM - Schedule - INFO: Click on element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] and locator type: xpath
+2019-04-18 21:46:14 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:14 PM - Schedule - INFO: Element with locator: //*[@id="manager-calendar"]/div[1]/div[2]/button appeared on the page
+2019-04-18 21:46:14 PM - Schedule - INFO: Element with locator: //*[@id="manager-calendar"]/div[1]/div[1]/button By type: xpath  Found!
+2019-04-18 21:46:14 PM - Schedule - INFO: Element with locator //*[@id="manager-calendar"]/div[1]/div[1]/button and locator type: xpath Found!
+2019-04-18 21:46:14 PM - Schedule - INFO: Element with locator: button.fc-corner-right By type: css  Found!
+2019-04-18 21:46:15 PM - Schedule - INFO: Click on element with locator: button.fc-corner-right and locator type: css
+2019-04-18 21:46:15 PM - Schedule - INFO: Element with locator: //*[@id="manager-calendar"]/div[1]/div[1]/button By type: xpath  Found!
+2019-04-18 21:46:15 PM - Schedule - INFO: Element with locator //*[@id="manager-calendar"]/div[1]/div[1]/button and locator type: xpath Found!
+2019-04-18 21:46:20 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:46:20 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:46:21 PM - Login - INFO:  Data manager1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:46:21 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:46:21 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:46:21 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:46:21 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:46:21 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:46:21 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:21 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:46:21 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:21 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:46:21 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a By type: xpath  Found!
+2019-04-18 21:46:22 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a and locator type: xpath
+2019-04-18 21:46:22 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:22 PM - Page - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] appeared on the page
+2019-04-18 21:46:22 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:22 PM - Schedule - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:46:22 PM - Schedule - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] By type: xpath  Found!
+2019-04-18 21:46:23 PM - Schedule - INFO: Click on element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] and locator type: xpath
+2019-04-18 21:46:23 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:23 PM - Schedule - INFO: Element with locator: //*[@id="manager-calendar"]/div[1]/div[2]/button appeared on the page
+2019-04-18 21:46:23 PM - Schedule - INFO: Element with locator: //*[@id="manager-calendar"]/div[1]/div[2]/button By type: xpath  Found!
+2019-04-18 21:46:23 PM - Schedule - INFO: Click on element with locator: //*[@id="manager-calendar"]/div[1]/div[2]/button and locator type: xpath
+2019-04-18 21:46:23 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:24 PM - Schedule - INFO: Element with locator: //*[@id="datetimepicker"] appeared on the page
+2019-04-18 21:46:24 PM - Schedule - INFO: Element with locator: //button[@class="btn btn-primary js-add-apply"] By type: xpath  Found!
+2019-04-18 21:46:24 PM - Schedule - INFO: Element with locator //button[@class="btn btn-primary js-add-apply"] and locator type: xpath Found!
+2019-04-18 21:46:24 PM - Schedule - INFO: Element with locator: //button[@class="btn btn-primary js-add-apply"] By type: xpath  Found!
+2019-04-18 21:46:24 PM - Schedule - INFO: Click on element with locator: //button[@class="btn btn-primary js-add-apply"] and locator type: xpath
+2019-04-18 21:46:24 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:24 PM - Schedule - INFO: Element with locator: //li[@class="address-error"] appeared on the page
+2019-04-18 21:46:24 PM - Schedule - INFO: Element with locator: //li[@class="address-error"] By type: xpath  Found!
+2019-04-18 21:46:24 PM - Schedule - INFO: Element with locator //li[@class="address-error"] and locator type: xpath Found!
+2019-04-18 21:46:25 PM - Schedule - INFO: Element with locator: //*[@id="add-modal"]/div/div/div[1]/button By type: xpath  Found!
+2019-04-18 21:46:25 PM - Schedule - INFO: Click on element with locator: //*[@id="add-modal"]/div/div/div[1]/button and locator type: xpath
+2019-04-18 21:46:25 PM - Schedule - INFO: Waiting for maximum: 20 for element to disappear from the page
+2019-04-18 21:46:25 PM - Schedule - INFO: Element with locator: //*[@id="add-modal"]/div/div/div[1]/button disappeared from the page
+2019-04-18 21:46:32 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:46:32 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:46:32 PM - Login - INFO:  Data manager1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:46:32 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:46:32 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:46:32 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:46:32 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:46:32 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:46:32 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:33 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:46:33 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:33 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:46:33 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a By type: xpath  Found!
+2019-04-18 21:46:34 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a and locator type: xpath
+2019-04-18 21:46:34 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:34 PM - Page - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] appeared on the page
+2019-04-18 21:46:34 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:34 PM - Schedule - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:46:34 PM - Schedule - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] By type: xpath  Found!
+2019-04-18 21:46:35 PM - Schedule - INFO: Click on element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] and locator type: xpath
+2019-04-18 21:46:35 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:35 PM - Schedule - INFO: Element with locator: //*[@id="manager-calendar"]/div[1]/div[2]/button appeared on the page
+2019-04-18 21:46:35 PM - Schedule - INFO: Element with locator: //*[@id="manager-calendar"]/div[1]/div[2]/button By type: xpath  Found!
+2019-04-18 21:46:35 PM - Schedule - INFO: Click on element with locator: //*[@id="manager-calendar"]/div[1]/div[2]/button and locator type: xpath
+2019-04-18 21:46:35 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:36 PM - Schedule - INFO: Element with locator: //*[@id="datetimepicker"] appeared on the page
+2019-04-18 21:46:36 PM - Schedule - INFO: Element with locator: //*[@id="add-schedule-item-form"]//input[@placeholder="Select a Address"] By type: xpath  Found!
+2019-04-18 21:46:36 PM - Schedule - INFO: Click on element with locator: //*[@id="add-schedule-item-form"]//input[@placeholder="Select a Address"] and locator type: xpath
+2019-04-18 21:46:36 PM - Schedule - INFO: Element with locator: //*[@id="add-schedule-item-form"]//input[@placeholder="Select a Address"] By type: xpath  Found!
+2019-04-18 21:46:37 PM - Schedule - INFO:  Data вулиц€ √л≥нки 2, „ерн≥вц≥, „ерн≥вецька область successfully send to element with locator: //*[@id="add-schedule-item-form"]//input[@placeholder="Select a Address"] and locator type: xpath
+2019-04-18 21:46:37 PM - Schedule - INFO: Element with locator: //li[@data-value="вулиц€ √л≥нки 2, „ерн≥вц≥, „ерн≥вецька область"] By type: xpath  Found!
+2019-04-18 21:46:37 PM - Schedule - INFO: Click on element with locator: //li[@data-value="вулиц€ √л≥нки 2, „ерн≥вц≥, „ерн≥вецька область"] and locator type: xpath
+2019-04-18 21:46:37 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:37 PM - Schedule - INFO: Element with locator: //*[@id="datetimepicker"] appeared on the page
+2019-04-18 21:46:37 PM - Schedule - INFO: Element with locator: //*[@id="datetimepicker"] By type: xpath  Found!
+2019-04-18 21:46:37 PM - Schedule - INFO: Click on element with locator: //*[@id="datetimepicker"] and locator type: xpath
+2019-04-18 21:46:37 PM - Schedule - INFO: Element with locator: //*[@id="datetimepicker"] By type: xpath  Found!
+2019-04-18 21:46:39 PM - Schedule - INFO: Element with locator: //*[@id="datetimepicker"] By type: xpath  Found!
+2019-04-18 21:46:39 PM - Schedule - INFO:  Data 2018-12-22 successfully send to element with locator: //*[@id="datetimepicker"] and locator type: xpath
+2019-04-18 21:46:39 PM - Schedule - INFO: Element with locator: //button[@class="btn btn-primary js-add-apply"] By type: xpath  Found!
+2019-04-18 21:46:39 PM - Schedule - INFO: Element with locator //button[@class="btn btn-primary js-add-apply"] and locator type: xpath Found!
+2019-04-18 21:46:39 PM - Schedule - INFO: Element with locator: //button[@class="btn btn-primary js-add-apply"] By type: xpath  Found!
+2019-04-18 21:46:39 PM - Schedule - INFO: Click on element with locator: //button[@class="btn btn-primary js-add-apply"] and locator type: xpath
+2019-04-18 21:46:39 PM - Schedule - INFO: Waiting for maximum: 20 for element to disappear from the page
+2019-04-18 21:46:40 PM - Schedule - INFO: Element with locator: //button[@class="btn btn-primary js-add-apply"] disappeared from the page
+2019-04-18 21:46:43 PM - Schedule - ERROR: Element with locator: //td[@data-date="2018-12-22"]//a By type: xpath  Not Found!
+2019-04-18 21:46:51 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:46:51 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:46:51 PM - Login - INFO:  Data manager1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:46:51 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:46:51 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:46:51 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:46:51 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:46:51 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:46:51 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:52 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:46:52 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:52 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:46:52 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a By type: xpath  Found!
+2019-04-18 21:46:52 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a and locator type: xpath
+2019-04-18 21:46:52 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:52 PM - Page - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] appeared on the page
+2019-04-18 21:46:52 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:52 PM - Schedule - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:46:53 PM - Schedule - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] By type: xpath  Found!
+2019-04-18 21:46:55 PM - Schedule - INFO: Click on element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] and locator type: xpath
+2019-04-18 21:46:55 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:46:55 PM - Schedule - INFO: Element with locator: //*[@id="manager-calendar"]/div[1]/div[2]/button appeared on the page
+2019-04-18 21:46:58 PM - Schedule - ERROR: Element with locator: //td[@data-date="2018-12-22"]//a By type: xpath  Not Found!
+2019-04-18 21:47:01 PM - Schedule - ERROR: Element with locator: //*[@id="manager-calendar"]/div[2]/div/table/tbody/tr/td/div/div/div[5]/div[2]/table/tbody/tr/td[5]/a/div/span By type: xpath  Not Found!
+2019-04-18 21:47:08 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:47:08 PM - Login - INFO: Element with locator: email By type: id  Found!
+2019-04-18 21:47:09 PM - Login - INFO:  Data manager1@gmail.com successfully send to element with locator: email and locator type: id
+2019-04-18 21:47:09 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:47:09 PM - Login - INFO: Element with locator: password By type: id  Found!
+2019-04-18 21:47:09 PM - Login - INFO:  Data Admin123 successfully send to element with locator: password and locator type: id
+2019-04-18 21:47:09 PM - Login - INFO: Element with locator: Login_button By type: id  Found!
+2019-04-18 21:47:09 PM - Login - INFO: Click on element with locator: Login_button and locator type: id
+2019-04-18 21:47:09 PM - Login - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:47:09 PM - Login - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:47:09 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:47:09 PM - Page - INFO: Element with locator: //div[@class="menu_section"] appeared on the page
+2019-04-18 21:47:09 PM - Page - INFO: Element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a By type: xpath  Found!
+2019-04-18 21:47:10 PM - Page - INFO: Click on element with locator: //*[@id="sidebar-menu"]/div/ul/li[1]/a and locator type: xpath
+2019-04-18 21:47:10 PM - Page - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:47:10 PM - Page - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] appeared on the page
+2019-04-18 21:47:10 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:47:10 PM - Schedule - INFO: Element with locator: //*[@id="display-name"] appeared on the page
+2019-04-18 21:47:10 PM - Schedule - INFO: Element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] By type: xpath  Found!
+2019-04-18 21:47:12 PM - Schedule - INFO: Click on element with locator: //*[@id="tab-inspectors"]//a[@href="/manager/schedule/inspector/110/"] and locator type: xpath
+2019-04-18 21:47:12 PM - Schedule - INFO: Waiting for maximum: 20 for element to be visible on the page
+2019-04-18 21:47:12 PM - Schedule - INFO: Element with locator: //*[@id="manager-calendar"]/div[1]/div[2]/button appeared on the page
+2019-04-18 21:47:15 PM - Schedule - ERROR: Element with locator: //button[@data-id=155] By type: xpath  Not Found!
